@@ -102,10 +102,9 @@ Some of the insights obtained from the analysis include:
 
 ---
 
-# Dashboard Preview
-```
-![Spotify Dashboard](https://github.com/Imani-hub-pixel/Excel-projects/blob/main/Spotify%20Data%20analysis/dashboard.PNG)
-```
+## Dashboard Preview
+![Excel Dashboard Preview](https://github.com/Imani-hub-pixel/Excel-projects/blob/main/Breast%20cancer%20data%20analysis/1778838950952.jfif)
+
 ---
 
 # 🚀 Skills Demonstrated
