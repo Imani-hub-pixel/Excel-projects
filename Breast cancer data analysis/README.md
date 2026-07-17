@@ -41,7 +41,7 @@ The interactive Excel dashboard contains:
 * **Interactive Slicers:** Cross-filtering functionality that lets users segment the data instantly by diagnosis types or custom metric ranges.
 
 ## Dashboard Preview
-![Excel Dashboard Preview](https://github.com/Imani-hub-pixel/Excel-projects/blob/main/1778838950952.jfif)
+![Excel Dashboard Preview](https://github.com/Imani-hub-pixel/Excel-projects/blob/main/Breast%20cancer%20data%20analysis/1778838950952.jfif)
 
 ## Repository Structure
 ```
