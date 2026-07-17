@@ -103,11 +103,11 @@ Some of the insights obtained from the analysis include:
 ---
 
 ## Dashboard Preview
-![Excel Dashboard Preview](https://github.com/Imani-hub-pixel/Excel-projects/blob/main/Breast%20cancer%20data%20analysis/1778838950952.jfif)
+![Excel Dashboard Preview](https://github.com/Imani-hub-pixel/Excel-projects/blob/main/Spotify%20Data%20analysis/dashboard.PNG)
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
