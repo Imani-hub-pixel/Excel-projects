@@ -103,9 +103,9 @@ Some of the insights obtained from the analysis include:
 ---
 
 # Dashboard Preview
-
+```
 ![Spotify Dashboard](https://github.com/Imani-hub-pixel/Excel-projects/blob/main/Spotify%20Data%20analysis/dashboard.PNG)
-
+```
 ---
 
 # 🚀 Skills Demonstrated
