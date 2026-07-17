@@ -37,17 +37,14 @@ Through exploratory analysis, the following trends were uncovered:
 
 ## Dashboard Features
 The interactive Excel dashboard contains:
-* **KPI Summary Cards:** Instant visibility into total cases, malignant percentages, and average tumor boundaries.
 * **Comparative Charts:** Visual distribution of diagnosis categories alongside feature-by-feature comparisons.
 * **Interactive Slicers:** Cross-filtering functionality that lets users segment the data instantly by diagnosis types or custom metric ranges.
 
-## 📷 Dashboard Preview
-*(Replace the placeholder path below with your actual image link once uploaded to GitHub)*
+## Dashboard Preview
+![Excel Dashboard Preview](https://github.com/Imani-hub-pixel/Excel-projects/blob/main/1778838950952.jfif)
 
-![Excel Dashboard Preview]()
-
-## 📁 Repository Structure
-```text
+## Repository Structure
+```
 Breast-Cancer-Excel-Analysis/
 │
 ├── Dataset/                  # Contains the raw/cleaned source data
