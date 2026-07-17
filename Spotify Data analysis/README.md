@@ -104,40 +104,7 @@ Some of the insights obtained from the analysis include:
 
 # Dashboard Preview
 
-
-
-Example:
-
-```text
-Images/
-│── spotify_dashboard.png
-│── artist_analysis.png
-│── genre_analysis.png
-```
-
-Display your dashboard in the README using:
-
-```markdown
-![Spotify Dashboard](Images/spotify_dashboard.png)
-```
-
----
-
-# 📁 Repository Structure
-
-```text
-Spotify-Data-Analysis/
-│
-├── Dataset/
-│   └── Spotify_Dataset.xlsx
-├── Dashboard/
-│   └── Spotify_Dashboard.xlsx
-├── Images/
-│   ├── spotify_dashboard.png
-│   ├── artist_analysis.png
-│   └── genre_analysis.png
-├── README.md
-```
+![Spotify Dashboard](https://github.com/Imani-hub-pixel/Excel-projects/blob/main/Spotify%20Data%20analysis/dashboard.PNG)
 
 ---
 
@@ -155,13 +122,13 @@ Spotify-Data-Analysis/
 
 ---
 
-# 📚 What I Learned
+# What I Learned
 
 Through this project, I strengthened my Excel data analysis skills by cleaning and organizing large datasets, creating pivot tables and interactive dashboards, analyzing music trends, and communicating insights through data visualization. This project also reinforced the importance of presenting analytical findings in a clear and accessible manner.
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Potential enhancements include:
 
@@ -172,7 +139,7 @@ Potential enhancements include:
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Faith Chepngeno**
 
